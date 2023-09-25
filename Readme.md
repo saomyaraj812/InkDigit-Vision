@@ -35,22 +35,28 @@ pip install -r requirements.txt
 
 To train the model, run the following command:
 
+```bash
 python train.py
+```
 
 You can make predictions on new handwritten digit images using the following command:
 
+```bash
 python predict.py path/to/your/image.png
+```
 
 ## Results
 
 Here's an example of how to use the trained model to predict a handwritten digit in Python:
 
+```bash
 from my_model import predict_digit
 
 image_path = 'path/to/your/image.png'
 prediction = predict_digit(image_path)
 
 print(f"Predicted digit: {prediction}")
+````
 
 ## Contributing
 
