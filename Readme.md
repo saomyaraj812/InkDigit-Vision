@@ -24,9 +24,9 @@ This project implements a deep learning model for handwritten digit recognition 
 ## Installation
 
 You can install the required dependencies using pip:
-git clone <https://github.com/yourusername/yourproject.git>
-cd yourproject
-pip install -r requirements.txt
+git clone <https://github.com/yourusername/yourproject.git>  
+cd yourproject  
+pip install -r requirements.txt  
 
 ## Usage
 
