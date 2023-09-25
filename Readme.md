@@ -9,11 +9,11 @@
 - Results
 - Contributing
 
-### Introduction
+## Introduction
 
 This project implements a deep learning model for handwritten digit recognition using Python, NumPy, and scikit-learn. The model is trained on the MNIST dataset and is capable of accurately identifying and predicting numbers from handwritten digit images.
 
-### Prerequisites
+## Prerequisites
 
 - Python
 - NumPy
@@ -21,14 +21,14 @@ This project implements a deep learning model for handwritten digit recognition 
 - scikit-learn
 - matplotlib
 
-### Installation
+## Installation
 
 You can install the required dependencies using pip:
 git clone <https://github.com/yourusername/yourproject.git>
 cd yourproject
 pip install -r requirements.txt
 
-### Usage
+## Usage
 
 To train the model, run the following command:
 
@@ -38,7 +38,7 @@ You can make predictions on new handwritten digit images using the following com
 
 python predict.py path/to/your/image.png
 
-### Results
+## Results
 
 Here's an example of how to use the trained model to predict a handwritten digit in Python:
 
@@ -49,6 +49,6 @@ prediction = predict_digit(image_path)
 
 print(f"Predicted digit: {prediction}")
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
