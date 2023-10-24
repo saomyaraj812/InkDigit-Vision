@@ -26,7 +26,7 @@ This project implements a deep learning model for handwritten digit recognition 
 You can install the required dependencies using pip:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git  
+git clone https://github.com/saomyaraj812/InkDigit-Vision.git  
 cd yourproject  
 pip install -r requirements.txt
 ```
